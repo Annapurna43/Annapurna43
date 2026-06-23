@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi 👋 I'm John
+# Hi 👋 I'm Annapurna
 
 ## About Me
 - Java Developer
